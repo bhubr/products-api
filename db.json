@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sony KE55XH90P",
+      "slug": "sony-ke55xh90p",
+      "description": "Sony TV 55 Pouces - Bluetooth, Wi-fi, USB, Ethernet, HDMI",
+      "picture": "https://m.media-amazon.com/images/I/81+sKrRZa+L._AC_SL1500_.jpg",
+      "price": 999.00,
+      "onSale": false
+    },
+    {
+      "id": 2,
+      "title": "Panasonic DP-UB150EF-K",
+      "slug": "panasonic-dp-ub150ef-k",
+      "description": "Panasonic Lecteur Blu Ray Ultra HD DP-UB150EF-K",
+      "picture": "https://m.media-amazon.com/images/I/41vlxZ5j8ZL._AC_SL1000_.jpg",
+      "price": 149.00,
+      "onSale": true
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Redmi 9A",
+      "slug": "xiaomi-redmi-9a",
+      "description": "Xiaomi Redmi 9A - Smartphone 32GB, 2GB RAM, Dual Sim, Vert",
+      "picture": "https://m.media-amazon.com/images/I/51liVatCv-L._AC_SL1200_.jpg",
+      "price": 133.98,
+      "onSale": false
+    },
+    {
+      "id": 4,
+      "title": "Acer Predator Helios 300 PH315-53-557T",
+      "slug": "acer-predator-helios-300-ph315-53-557t",
+      "description": "Acer Predator Helios 300 PH315-53-557T Intel Core i5-10300H Ordinateur Portable Gaming 15,6'' FHD IPS 144 Hz",
+      "picture": "https://m.media-amazon.com/images/I/71p+51VvFLL._AC_SL1500_.jpg",
+      "price": 1099.00,
+      "onSale": true
+    }
+  ]
+}
